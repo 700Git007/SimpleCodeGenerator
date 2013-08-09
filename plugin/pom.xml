@@ -12,6 +12,7 @@
     <artifactId>plugin</artifactId>
     <packaging>maven-plugin</packaging>
 
+	<!-- ÎÒÊÇ×¢ÊÍ -->
     <build>
         <plugins>
             <plugin>

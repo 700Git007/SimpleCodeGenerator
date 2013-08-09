@@ -15,7 +15,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @goal generate
+ * @goal generateÎÒÊÇ×¢ÊÍ
  */
 public class CodeGeneratorPlugin extends AbstractMojo {
 

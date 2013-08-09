@@ -12,7 +12,7 @@
     <artifactId>plugin</artifactId>
     <packaging>maven-plugin</packaging>
 
-	<!-- 我是注释 -->
+	<!-- 我是注释1 -->
     <build>
         <plugins>
             <plugin>
